@@ -1,0 +1,70 @@
+.homepage {
+    background-color: #111;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    padding: 40px;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .header-title {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  main {
+    padding: 40px;
+    flex-grow: 1;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #ccc;
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #555;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  footer {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  
